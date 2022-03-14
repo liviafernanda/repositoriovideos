@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/liviafernanda.github.io/repositoriovideos/static/css/main.75f8de43.css",
+    "main.js": "/liviafernanda.github.io/repositoriovideos/static/js/main.9251f984.js",
+    "static/media/13.mp4": "/liviafernanda.github.io/repositoriovideos/static/media/13.aacbcd18f97701babcb5.mp4",
+    "static/media/16.mp4": "/liviafernanda.github.io/repositoriovideos/static/media/16.836fde94ca12de733240.mp4",
+    "static/media/12.mp4": "/liviafernanda.github.io/repositoriovideos/static/media/12.a735b3fa6bc2a4564624.mp4",
+    "static/media/15.mp4": "/liviafernanda.github.io/repositoriovideos/static/media/15.9faa205e6b6890c3909d.mp4",
+    "static/media/14.mp4": "/liviafernanda.github.io/repositoriovideos/static/media/14.dc1f17f3f913c6cb3c5a.mp4",
+    "static/media/obrigado.mp4": "/liviafernanda.github.io/repositoriovideos/static/media/obrigado.086a9ebe8f685e55d92f.mp4",
+    "index.html": "/liviafernanda.github.io/repositoriovideos/index.html",
+    "main.75f8de43.css.map": "/liviafernanda.github.io/repositoriovideos/static/css/main.75f8de43.css.map",
+    "main.9251f984.js.map": "/liviafernanda.github.io/repositoriovideos/static/js/main.9251f984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f8de43.css",
+    "static/js/main.9251f984.js"
+  ]
+}

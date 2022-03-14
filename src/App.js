@@ -2,7 +2,7 @@ import React from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import { Player } from 'video-react';
 import { ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
-import { Typography, InputLabel, FormControl, NativeSelect, CssBaseline, Grid, Toolbar, Container } from '@material-ui/core';
+import { Typography, CssBaseline, Toolbar, Container } from '@material-ui/core';
 import "../node_modules/video-react/dist/video-react.css";
 import VideoLibrary from '@mui/icons-material/VideoLibrary';
 
